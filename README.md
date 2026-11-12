@@ -95,7 +95,7 @@ if __name__ == "__main__":
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/tds-fundamentos-testes.git
+git clone https://github.com/nsdBRoficial/tds-fundamentos-testes.git
 cd tds-fundamentos-testes
 ```
 
